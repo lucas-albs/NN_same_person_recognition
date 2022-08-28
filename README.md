@@ -1,4 +1,4 @@
 # NN_same_person_recognition
-This neural network algorithm detects if two pictures are from the same person.
+This is a neural network algorithm detects if two pictures are from the same person. It uses a statistical algorithm called PCA.
 
-To see it in details, open NN_same_person_recognition_with_PCA.ipynb !
+To see it in details, open **NN_same_person_recognition_with_PCA.ipynb** !
